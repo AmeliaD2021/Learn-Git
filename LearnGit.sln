@@ -14,6 +14,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Test Project", "Unit T
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D51EAF9-CD21-432F-9239-2093488A2078}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicNetCoreClassProject", "BasicNetCoreClassProject\BasicNetCoreClassProject.csproj", "{83788BD7-A5B6-4E8A-9789-4E70C30BA3FB}"
 EndProject

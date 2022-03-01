@@ -9,7 +9,7 @@ namespace BasicNetCoreClassProject.Interfaces
     public interface IBase
     {
         /// <summary>
-        /// This is the primary key
+        /// This is the primary key.
         /// </summary>
         public int Id { get; }
     }
