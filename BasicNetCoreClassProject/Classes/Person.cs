@@ -12,9 +12,9 @@ namespace BasicNetCoreClassProject.Classes
     {
         public int Identifier { get; set; }
         public int Id => Identifier;
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public override string ToString() => $"{Id,-5}{FirstName} {LastName}";
+        public string First_Name { get; set; }
+        public string Last_Name { get; set; }
+        public override string ToString() => $"{Id,-5}{First_Name} {Last_Name}";
     }
 
 }
